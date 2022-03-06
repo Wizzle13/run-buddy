@@ -144,8 +144,6 @@ section {
     font-size: 16px;
 }
 
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -200,7 +198,7 @@ section {
 }
 
 .step-text {
-    flex 12;
+    flex: 12;
 }
 
 .step-text p {
